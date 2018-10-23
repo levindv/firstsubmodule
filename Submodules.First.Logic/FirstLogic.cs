@@ -7,7 +7,7 @@ namespace Submodules.First.Logic
     {
         public string ExecuteAndGetStatus(FirstContract data)
         {
-            Console.WriteLine(data.FirstStringParam);
+            Console.Write(data.FirstStringParam);
             return data.FirstStringParam;
         }
     }
