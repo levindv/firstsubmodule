@@ -2,6 +2,6 @@
 {
     public class FirstContract
     {
-        public string FirstStringParam { get; set; } = "Hello";
+        public string FirstStringParam { get; set; } = "Hello World";
     }
 }
